@@ -17,7 +17,7 @@ Play the classic **Reversi (Othello)** game directly in your Chrome browser! Thi
 
 ## **How to Install**
 
-### From Source (For Developers):
+### From Source:
 
 1. Clone this repository:
    ```bash
